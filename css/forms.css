@@ -1,0 +1,8 @@
+.form-password, #done, #busy {
+    max-width: 300px;
+    margin: 30px auto;
+}
+
+.logo {
+    max-width: 200px;
+}

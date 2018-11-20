@@ -1,0 +1,50 @@
+Cirquel Privacy Policy
+======================
+
+Data we collect - Personal Information
+
+By "Personal information" we mean: your email address, your name, your displayname and 
+your profile image.
+
+If you create an account, we will ask you for your email address and a display name. You 
+may choose to complete your profile with a first name, last name and a profile picture. 
+
+Your display name and profile picture will be public. All other information is private. 
+Your email address will be used to send you important account related messages such as 
+password reset links. 
+
+Data we collect - Your contributions
+
+By "contributions" we mean: Pictures, videos and descriptions you have added to the 
+database.
+
+When you add tricks or poses to the app, the images, videos and description will be 
+publicly accessible to other users of the app. You can request to have your own images taken 
+down. By default, if you delete your account, your contributions will stay online, but the 
+link to your account will be removed.
+
+How we use your personal data
+
+We don't. Currently there's no analytics being done, no usage statistics being taken other 
+than the default statistics the Google Play store and Apple app store track. Your personal 
+info never leaves our servers, and no 3rd party has access to it. If this ever changes, we 
+will ask you to opt-in. We will never share your personal information without your 
+explicit consent.
+
+Marketing emails and newsletters
+
+We currently don't have a newsletter or any type of marketing email that we send our users. 
+If this ever changes, we will ask you to opt-in. We will never send you any marketing emails 
+without your prior explicit consent.
+
+Data security
+
+No one outside of the admins have access to the database. Passwords are salted and hashed 
+according to modern standards. All connections to our servers are encrypted. 
+
+Data removal
+
+If you want to be 'forgotten', please send an email to privacy@cirquelapp.com. We will 
+delete your account and all personal information we have of you. By default we will keep 
+your contributions, but will remove the link to your account. If you wish for your 
+contributions to be deleted as well, please state that specifically in the email. 
